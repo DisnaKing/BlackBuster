@@ -67,10 +67,13 @@ class _MyHomePageState extends State<MyHomePage> {
     });
   }
 
+<<<<<<< HEAD
   Widget nav(BuildContext context){
     return Scaffold(
     )
   }
+=======
+>>>>>>> 91a441855ca6ad42592357015ad36afdb7d8a334
   @override
   Widget build(BuildContext context) {
     // This method is rerun every time setState is called, for instance as done
